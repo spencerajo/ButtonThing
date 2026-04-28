@@ -1,0 +1,1 @@
+Here is a file that was added via 'git add hello.txt
